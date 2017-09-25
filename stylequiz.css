@@ -1,0 +1,38 @@
+
+body {
+	background: pink;
+	font-family: Graphik;
+	font-size: 14pt;
+	margin: 20;
+
+}
+
+h1{
+	color: black;
+	font-size: 30pt;
+	padding-bottom: 10px;
+}
+h2{
+	color: grey;
+	font-size: 24pt;
+	padding-bottom: 10px;
+}
+
+h3{
+	color: black;
+	font-size: 14pt;
+}
+
+a{
+	color: hotpink;
+
+
+}
+
+p{
+	padding-bottom: 10px
+}
+
+label{
+	font-weight: normal;
+}
