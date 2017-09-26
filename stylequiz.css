@@ -36,3 +36,12 @@ p{
 label{
 	font-weight: normal;
 }
+
+button {
+	background-color: white;
+	color: hotpink;
+	padding: 15px 32px;
+	text-align: center;
+	font-size: 24pt;
+
+}
