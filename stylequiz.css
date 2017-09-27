@@ -1,6 +1,6 @@
 
 body {
-	background: pink;
+	background: lightblue;
 	font-family: Graphik;
 	font-size: 14pt;
 	margin: 20;
@@ -8,19 +8,19 @@ body {
 }
 
 h1{
-	color: black;
-	font-size: 30pt;
-	padding-bottom: 10px;
+	color: white;
+	font-size: 100pt;
+	padding-bottom: 20px;
 }
 h2{
 	color: grey;
-	font-size: 24pt;
-	padding-bottom: 10px;
+	font-size: 50pt;
+	padding-bottom: 20px;
 }
 
 h3{
-	color: black;
-	font-size: 14pt;
+	color: white;
+	font-size: 20pt;
 }
 
 a{
@@ -30,7 +30,7 @@ a{
 }
 
 p{
-	padding-bottom: 10px
+	padding-bottom: 20px
 }
 
 label{
@@ -38,8 +38,8 @@ label{
 }
 
 button {
-	background-color: white;
-	color: hotpink;
+	background-color: hotpink;
+	color: white;
 	padding: 15px 32px;
 	text-align: center;
 	font-size: 24pt;
